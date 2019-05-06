@@ -1,0 +1,14 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fabcar_app.js",
+  "scripts": {
+    "start": "node fabcar_app.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+  }
+}
