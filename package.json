@@ -10,5 +10,9 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "fabric-ca-client": "~1.4.1",
+    "fabric-network": "~1.4.0"
   }
 }
